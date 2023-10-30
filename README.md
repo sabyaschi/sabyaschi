@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sabyasachi</h1>
 <h3 align="center">A passionate for making apps on flutter</h3>
 
-- 🌱 I’m currently learning **BCA as well as Flutter**
+- 🌱 I’m a BCA graduate
 
-- 💬 Ask me about **Flutter, Android, JAVA, UI/UX, DART**
+- 💬 Ask me about **Flutter, REACT, JAVA, UI/UX, DART**
 
 - 📫 How to reach me **sabyasachiroy2002@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1qwBjHL0xKfgLMP4vCMYeq9MYyLlU84ae/view?usp=sharing](https://drive.google.com/file/d/1qwBjHL0xKfgLMP4vCMYeq9MYyLlU84ae/view?usp=sharing)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1qwBjHL0xKfgLMP4vCMYeq9MYyLlU84ae/view?usp=sharing](https://drive.google.com/file/d/1V-k04ky0DbCmHMPVdP8zthdmFm7CHiGy/view?usp=sharing)]([https://drive.google.com/file/d/1qwBjHL0xKfgLMP4vCMYeq9MYyLlU84ae/view?usp=sharing](https://drive.google.com/file/d/1V-k04ky0DbCmHMPVdP8zthdmFm7CHiGy/view?usp=sharing))
 
 - ⚡ Fun fact **I am flexible**
 
