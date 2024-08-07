@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sabyasachi</h1>
 <h3 align="center">A passionate for making apps on flutter</h3>
 
-- 🌱 I’m a BCA graduate
+- 🌱Currently pursuing MCA
+- 🌱I’m a BCA graduate
 
 - 💬 Ask me about **Flutter, REACT, JAVA, UI/UX, DART**
 
