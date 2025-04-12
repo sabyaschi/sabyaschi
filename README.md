@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sabyasachi</h1>
-<h3 align="center">A passionate for making apps on flutter</h3>
+<h3 align="center">@Accenture</h3>
 
-- 🌱Currently pursuing MCA
+- 🌱Served as an Associate Software Engineer
+- 🌱Master's in MCA
 - 🌱I’m a BCA graduate
 
-- 💬 Ask me about **Flutter, REACT, JAVA, UI/UX, DART**
+- 💬 Ask me about **SpringBoot ,Flutter, REACT, JAVA, UI/UX, DART**
 
 - 📫 How to reach me **sabyasachiroy2002@gmail.com**
 
